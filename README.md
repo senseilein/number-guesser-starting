@@ -1,6 +1,8 @@
 # Number Guesser (script.js) - Codecademy 
 
 Codecademy > Backend Engineer Path > JavaScript Syntax, Part I
+
+https://senseilein.github.io/number-guesser-starting/
 <br>
 
 ## Practise the following concepts:

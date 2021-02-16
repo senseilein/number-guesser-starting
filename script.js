@@ -5,6 +5,7 @@ let currentRoundNumber = 1;
 // My code below:
 
 let incorrectInput = "Check the rules, your number is out of range! That's an easy point for the computer!";
+
 // 1. This function returns a random integer between 0 and 9
 const generateTarget = () => {
     return Math.floor(Math.random() * 10);

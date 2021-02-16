@@ -5,7 +5,7 @@ Codecademy > Backend Engineer Path > JavaScript Syntax, Part I
 See result here => https://senseilein.github.io/number-guesser-starting/
 <br>
 
-## Practise the following concepts:
+## To practise the following concepts:
 
 * **Intro to JavaScript** data types, built-in methods, and variables
 
@@ -19,7 +19,7 @@ See result here => https://senseilein.github.io/number-guesser-starting/
 **Write JavaScript functions to power a small guessing game**
 * **I have updated the `script.js` file** based on the instructions provided below.
 
-* the html, css and game.js files were provided with the instructions.
+* the html, css and game.js files were provided with the instructions (not my code)
 <br>
 
 
